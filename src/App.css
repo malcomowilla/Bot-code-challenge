@@ -1,0 +1,16 @@
+.bot_display {
+  width: 12rem;
+  background-color: plum;
+}
+
+.my_army {
+  background-color: green;
+}
+
+.h1 {
+  text-align: center;
+}
+
+.bot_army {
+  background-color: maroon;
+}
